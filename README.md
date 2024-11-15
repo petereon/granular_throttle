@@ -36,4 +36,6 @@ Following callback modes are supported:
 Delay times are in milliseconds.
 
 
-
+## Plans
+- [ ] Add support for unregistering callbacks
+- [ ] Variable sized structure for storing pin callbacks
